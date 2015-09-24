@@ -4,12 +4,12 @@ Austin, TX
 
 === Summary ===
 I am a software engineer with a background in performance engineering
-and data analysis. My current work focuses on designing,
-developing, and validating large scale IaaS cloud and data analytics
-systems based on Linux, OpenStack, and Hadoop.
+and data analysis. In my current position I design, develop, and
+validate IaaS cloud and data analytics platforms based on Linux,
+OpenStack, and Hadoop.
 
 Examples of my past work include: +
-- Developing predictive performance models for the CERN/ATLAS program +
+- Developing a predictive performance model for the CERN/ATLAS program +
 - Benchmarking 1000+ node supercomputers for the Top 500 list +
 - Scouting opponents at the Rugby World Cup using social network analysis +
 - Extending a mathematical model of human eye movement to include Smooth Pursuit
@@ -19,28 +19,28 @@ Examples of my past work include: +
 *Principal Software Engineer, Cloud Computing* +
 Red Hat, _January 2012 – Present_ +
 
-My current work focuses on developing, testing, and publishing cloud
+- My current work focuses on developing, testing, and publishing cloud
 computing reference architectures based on Red Hat Enterprise Linux
 OpenStack Platform.
 
 *Rugby 7s Head Coach* +
 University of Texas at Austin, _August 2010 – July 2015_ +
 
-Founder and coach of University of Texas Rugby 7s team. Ranked #20
+- Founder and coach of University of Texas Rugby 7s team. Ranked #20
 2011, #13 2012, #12 2013 out of more than 500 college rugby programs.
 
 *Performance analyst* +
 Philippine Rugby Football Union, _June 2013 – August 2013_ +
 
-National team performance analyst during the 2013 Rugby 7s World Cup
+- National team performance analyst during the 2013 Rugby 7s World Cup
 in Moscow, Russia. Video capture, coding, statistical analysis, and
 scouting.
 
 *Performance Engineer, Scientific and Cloud Computing* +
 Advanced Micro Devices, _November 2009 – January 2012_ +
 
-Designed and conducted performance studies for competitive analysis.
-Worked directly with customers to improve performance of their codes
+- Designed and conducted server performance studies for competitive
+analysis. Helped customers improve the performance of their codes
 on our systems. Managed lab clusters for remote customer evaluation
 and traveled to customer sites to conduct benchmarks for acceptance
 testing.
@@ -48,7 +48,7 @@ testing.
 *Development Engineer, Scientific Computing* +
 Dell, _August 2006 – November 2009_ +
 
-Lead performance engineer. Conducted performance studies using
+- Lead performance engineer. Conducted server performance studies using
 standard benchmarks and applications. Shared results via publications
 and presentations. Evaluated storage, networking, and software
 technologies for inclusion in our product.
@@ -56,29 +56,36 @@ technologies for inclusion in our product.
 *Curriculum Designer/Subject Matter Expert* +
 Dell, _February 2005 – August 2006_ +
 
-Developed classroom and online technical curriculum for the field
+- Developed classroom and online technical curriculum for the field
 consulting team. High Performance Computing (HPC) subject matter expert.
 
 *Services Consulting Engineer* +
 Dell, _April 1999 – February 2005_ +
 
-Remote field services and support engineer. I helped customers connect
-non-Dell servers running UNIX and Linux to EMC storage arrays.
+- Remote field services and support engineer. I helped customers deploy
+and troubleshoot EMC storage arrays and connect servers running Linux
+or UNIX to them.
 
 == Education ==
 
 *Coursera* +
-_Certificate_, Data Science Specialization
+_Certificate_, Data Science Specialization (in progress) +
+- Completed 6 of 10 required courses for Johns Hopkins Data Science
+  Specialization
 
 *Texas State University* +
-_Master's Degree_, Computer Science (incomplete)
+_Master's Program_, Computer Science +
+- Completed > 30 hours of upper division computer science course work
+  with a combined GPA of 3.8
 
 *The University of Texas at Austin* +
-_Master's Degree_, Technology in Education, awarded 2006 +
-4.0 GPA
+_Master's Degree_, Technology in Education +
+- 4.0 overall GPA including course work in educational psychology,
+  statistics, learning theory, and scientific computing.
 
 *University of Wisconsin-Madison* +
-_Bachelor's Degree_, English Literature, awarded 1997
+_Bachelor's Degree_, English Literature 1997
+- Creative writing emphasis
 
 == Volunteer Service ==
 
@@ -94,15 +101,20 @@ Trojans Pop Warner, _August 2015 – Present_ +
 I coach American football and teach rugby tackling techniques to all
 age groups (5-12) to promote safe and effective tackling.
 
-*Board member -- Rugby Network* +
+*Membership chair -- Texas Rugby Alumni Network* +
 Texas Exes, _May 2015 - Present_ +
 
-The Texas Rugby Alumni Association is an official Texas Exes network.
-We organize alumni events, promote rugby within the university, and
-raise funds to offset operational costs to the University of Texas
-rugby team. In 2012 we established an endowed scholarship fund through
+Board member of the Texas Rugby Alumni Association, an official
+chapter of the Texas Exes. We organize alumni events and raise funds
+to offset operational costs to the UT rugby team. In 2012 we
+established and funded an endowed scholarship fund through
 UTIMCO.
 
 == Selected Publications, Example Code ==
 https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
 
+== Skills ==
+
+Linux, OpenStack, R, Python, Hadoop, inferential and exploratory statistics,
+technical writing, server performance analysis and benchmarking,
+human performance analysis, teaching, and coaching.
