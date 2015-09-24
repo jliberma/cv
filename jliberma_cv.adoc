@@ -1,27 +1,18 @@
-== Jacob Liberman ==
+==== Jacob Liberman ====
 jacobliberman@gmail.com +
 Austin, TX
 
-=== Summary ===
-I am a software engineer with a background in performance engineering
-and data analysis. In my current position I design, develop, and
-validate IaaS cloud and data analytics platforms based on Linux,
-OpenStack, and Hadoop.
+==== Summary ====
+I am a software engineer with a background in performance engineering,
+data analysis, and Linux systems administration.
 
-Examples of my past work include: +
-- Developing a predictive performance model for the CERN/ATLAS program +
-- Benchmarking 1000+ node supercomputers for the Top 500 list +
-- Scouting opponents at the Rugby World Cup using social network analysis +
-- Extending a mathematical model of human eye movement to include Smooth Pursuit
-
-== Experience ==
+==== Experience ====
 
 *Principal Software Engineer, Cloud Computing* +
 Red Hat, _January 2012 – Present_ +
 
 - My current work focuses on developing, testing, and publishing cloud
-computing reference architectures based on Red Hat Enterprise Linux
-OpenStack Platform.
+computing reference architectures based on Red Hat OpenStack Platform.
 
 *Rugby 7s Head Coach* +
 University of Texas at Austin, _August 2010 – July 2015_ +
@@ -53,6 +44,8 @@ standard benchmarks and applications. Shared results via publications
 and presentations. Evaluated storage, networking, and software
 technologies for inclusion in our product.
 
+<<<
+
 *Curriculum Designer/Subject Matter Expert* +
 Dell, _February 2005 – August 2006_ +
 
@@ -66,7 +59,7 @@ Dell, _April 1999 – February 2005_ +
 and troubleshoot EMC storage arrays and connect servers running Linux
 or UNIX to them.
 
-== Education ==
+==== Education ====
 
 *Coursera* +
 _Certificate_, Johns Hopkins Data Science Specialization (in progress) +
@@ -86,7 +79,7 @@ _Master's Degree_, Technology in Education +
 _Bachelor's Degree_, English Literature +
 - Creative writing emphasis
 
-== Volunteer Service ==
+==== Volunteer Service ====
 
 *Member, Good Judgment Team* +
 Good Judgment Project, _August 2014 - Present_ +
@@ -107,10 +100,10 @@ Board member of the Texas Rugby Alumni Association, an official
 chapter of the Texas Exes. We organize alumni events and manage an
 endowed scholarship fund.
 
-== Selected Publications, Example Code ==
-https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
+==== Skills ====
+Linux, OpenStack, R, Python, Bash scripting, Hadoop, inferential and
+exploratory statistics, technical writing, server performance analysis
+and benchmarking, human performance analysis, teaching, and coaching.
 
-== Skills ==
-Linux, OpenStack, R, Python, Hadoop, inferential and exploratory statistics,
-technical writing, server performance analysis and benchmarking,
-human performance analysis, teaching, and coaching.
+==== Selected Publications, Example Code ====
+https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
