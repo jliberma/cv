@@ -106,5 +106,5 @@ rugby team. In 2012 we established an endowed scholarship fund through
 UTIMCO.
 
 == Selected Publications, Example Code ==
-https://github.com/jliberma?tab=repositories
+https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
 
