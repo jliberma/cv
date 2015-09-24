@@ -3,7 +3,12 @@ jacobliberman@gmail.com +
 Austin, TX
 
 === Summary ===
+I am a software engineer with a background in performance engineering
+and data analysis. My current work focuses on designing,
+developing, and validating large scale IaaS cloud and data analytics
+systems based on Linux, OpenStack, and Hadoop.
 
+Examples of my past work include: +
 Developing predictive performance models for the CERN/ATLAS program +
 Benchmarking 1000+ node supercomputers for the Top 500 list +
 Scouting opponents at the Rugby World Cup using social network analysis +
@@ -57,8 +62,8 @@ consulting team. High Performance Computing (HPC) subject matter expert.
 *Services Consulting Engineer* +
 Dell, _April 1999 – February 2005_ +
 
-Remote and field services and support engineer. EMC storage / Linux /
-/ UNIX interoperability specialist.
+Remote field services and support engineer. I helped customers connect
+non-Dell servers running UNIX and Linux to EMC storage arrays.
 
 == Education ==
 
