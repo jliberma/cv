@@ -71,46 +71,44 @@ April 1999 – February 2005
 * Remote and field services and support engineer. EMC storage /
   Linux / UNIX interoperability specialist.
 
-Education
+== Education ==
 
 Coursera Data Science Specialization
 
-Texas State University
-Master's Degree
+Texas State University +
+Master's Degree +
 Computer Science (incomplete)
 
-
-The University of Texas at Austin
-Master's Degree
-Technology in Education, awarded 2006
+The University of Texas at Austin +
+Master's Degree +
+Technology in Education, awarded 2006 +
 4.0 GPA
 
-University of Wisconsin-Madison
-Bachelor's Degree
+University of Wisconsin-Madison +
+Bachelor's Degree +
 English Literature, awarded 1997
 
 
-Selected Publications, Example Code
+== Selected Publications, Example Code ==
 https://github.com/jliberma?tab=repositories
 
-Volunteer Experience
+== Volunteer Experience ==
 
-Member, Good Judgment Team
-Good Judgment Project
-August 2014 - Present
-
+*Member, Good Judgment Team*
+Good Judgment Project +
+August 2014 - Present +
++
 I predict global events in a government sponsored forecasting
 tournament.
 
-Football coach / tackle specialist
+*Football coach / tackle specialist*
 Trojans Pop Warner
 August 2015 – Present
 
-Volunteer football coach for Trojans Pop Warner in Austin, TX. I teach
-rugby tackling techniques to all age groups (5-12) to promote safe and
-effective tackling.
+I coach American football and teach rugby tackling techniques to all
+age groups (5-12) to promote safe and effective tackling.
 
-Board member -- Rugby Network
+*Board member -- Rugby Network*
 Texas Exes
 May 2015 - Present
 
