@@ -9,10 +9,10 @@ developing, and validating large scale IaaS cloud and data analytics
 systems based on Linux, OpenStack, and Hadoop.
 
 Examples of my past work include: +
-Developing predictive performance models for the CERN/ATLAS program +
-Benchmarking 1000+ node supercomputers for the Top 500 list +
-Scouting opponents at the Rugby World Cup using social network analysis +
-Extending a mathematical model of human eye movement to include Smooth Pursuit
+- Developing predictive performance models for the CERN/ATLAS program +
+- Benchmarking 1000+ node supercomputers for the Top 500 list +
+- Scouting opponents at the Rugby World Cup using social network analysis +
+- Extending a mathematical model of human eye movement to include Smooth Pursuit
 
 == Experience ==
 
