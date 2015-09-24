@@ -1,24 +1,22 @@
 == Jacob Liberman ==
-jacobliberman@gmail.com
+jacobliberman@gmail.com +
+Austin, TX
 
 === Summary ===
-My current work focuses on designing, developing, and validating large
-scale data analysis systems based on Linux, OpenStack, and Hadoop.
 
-Examples of my past work include:
-
-* Developing predictive performance models for the CERN/ATLAS program
-* Benchmarking 1000+ node supercomputers for the Top 500 list
-* Scouting opponents at the Rugby World Cup using social network analysis
-* Extending a mathematical model of human eye movement to include Smooth Pursuit
+ Developing predictive performance models for the CERN/ATLAS program
+ Benchmarking 1000+ node supercomputers for the Top 500 list
+ Scouting opponents at the Rugby World Cup using social network analysis
+ Extending a mathematical model of human eye movement to include Smooth Pursuit
 
 == Experience ==
 
 *Principal Software Engineer, Cloud Computing* +
 Red Hat, _January 2012 – Present_ +
 
-Develop, test, and publish cloud computing reference architectures
-based on Red Hat Enterprise Linux OpenStack Platform.
+My current work focuses on developing, testing, and publishing cloud
+computing reference architectures based on Red Hat Enterprise Linux
+OpenStack Platform.
 
 *Rugby 7s Head Coach* +
 University of Texas at Austin, _August 2010 – July 2015_ +
@@ -29,8 +27,9 @@ Founder and coach of University of Texas Rugby 7s team. Ranked #20
 *Performance analyst* +
 Philippine Rugby Football Union, _June 2013 – August 2013_ +
 
-Video analyst during the 2013 Rugby 7s World Cup in Moscow, Russia.
-Video capture, coding, statistical analysis, and scouting.
+National team performance analyst during the 2013 Rugby 7s World Cup
+in Moscow, Russia. Video capture, coding, statistical analysis, and
+scouting.
 
 *Performance Engineer, Scientific and Cloud Computing* +
 Advanced Micro Devices, _November 2009 – January 2012_ +
