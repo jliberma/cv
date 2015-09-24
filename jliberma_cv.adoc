@@ -76,7 +76,8 @@ _Certificate_, Data Science Specialization (in progress) +
 *Texas State University* +
 _Master's Program_, Computer Science +
 - Completed > 30 hours of upper division computer science course work
-  with a combined GPA of 3.8
+  with a 3.8 GPA
+- Left program before completion to pursue coaching interests
 
 *The University of Texas at Austin* +
 _Master's Degree_, Technology in Education +
@@ -105,16 +106,13 @@ age groups (5-12) to promote safe and effective tackling.
 Texas Exes, _May 2015 - Present_ +
 
 Board member of the Texas Rugby Alumni Association, an official
-chapter of the Texas Exes. We organize alumni events and raise funds
-to offset operational costs to the UT rugby team. In 2012 we
-established and funded an endowed scholarship fund through
-UTIMCO.
+chapter of the Texas Exes. We organize alumni events and manage an
+endowed scholarship fund.
 
 == Selected Publications, Example Code ==
 https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
 
 == Skills ==
-
 Linux, OpenStack, R, Python, Hadoop, inferential and exploratory statistics,
 technical writing, server performance analysis and benchmarking,
 human performance analysis, teaching, and coaching.
