@@ -7,35 +7,33 @@ scale data analysis systems based on Linux, OpenStack, and Hadoop.
 
 Examples of my past work include:
 
-. Developing predictive performance models for the CERN/ATLAS program
-. Benchmarking 1000+ node supercomputers for the Top 500 list
-. Scouting opponents at the Rugby World Cup using social network
-  analysis
-. Extending a mathematical model of human eye movement to include
-  Smooth Pursuit
+* Developing predictive performance models for the CERN/ATLAS program
+* Benchmarking 1000+ node supercomputers for the Top 500 list
+* Scouting opponents at the Rugby World Cup using social network analysis
+* Extending a mathematical model of human eye movement to include Smooth Pursuit
 
 == Experience ==
 
 *Principal Software Engineer, Cloud Computing* +
-Red Hat, January 2012 – Present +
+Red Hat, _January 2012 – Present_ +
 
 Develop, test, and publish cloud computing reference architectures
 based on Red Hat Enterprise Linux OpenStack Platform.
 
 *Rugby 7s Head Coach* +
-University of Texas at Austin, August 2010 – July 2015 +
+University of Texas at Austin, _August 2010 – July 2015_ +
 
 Founder and coach of University of Texas Rugby 7s team. Ranked #20
 2011, #13 2012, #12 2013 out of more than 500 college rugby programs.
 
 *Performance analyst* +
-Philippine Rugby Football Union, June 2013 – August 2013 +
+Philippine Rugby Football Union, _June 2013 – August 2013_ +
 
 Video analyst during the 2013 Rugby 7s World Cup in Moscow, Russia.
 Video capture, coding, statistical analysis, and scouting.
 
 *Performance Engineer, Scientific and Cloud Computing* +
-Advanced Micro Devices, November 2009 – January 2012 +
+Advanced Micro Devices, _November 2009 – January 2012_ +
 
 Designed and conducted performance studies for competitive analysis.
 Worked directly with customers to improve performance of their codes
@@ -44,7 +42,7 @@ and traveled to customer sites to conduct benchmarks for acceptance
 testing.
 
 *Development Engineer, Scientific Computing* +
-Dell, August 2006 – November 2009 +
+Dell, _August 2006 – November 2009_ +
 
 Lead performance engineer. Conducted performance studies using
 standard benchmarks and applications. Shared results via publications
@@ -52,12 +50,13 @@ and presentations. Evaluated storage, networking, and software
 technologies for inclusion in our product.
 
 *Curriculum Designer/Subject Matter Expert* +
-Dell, February 2005 – August 2006 +
+Dell, _February 2005 – August 2006_ +
 
-Developed classroom and online technical curriculum for the field consulting team. High Performance Computing (HPC) subject matter expert.
+Developed classroom and online technical curriculum for the field
+consulting team. High Performance Computing (HPC) subject matter expert.
 
 *Services Consulting Engineer* +
-Dell, April 1999 – February 2005 +
+Dell, _April 1999 – February 2005_ +
 
 Remote and field services and support engineer. EMC storage / Linux /
 / UNIX interoperability specialist.
