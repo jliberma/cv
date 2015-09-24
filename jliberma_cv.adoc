@@ -4,10 +4,10 @@ Austin, TX
 
 === Summary ===
 
- Developing predictive performance models for the CERN/ATLAS program
- Benchmarking 1000+ node supercomputers for the Top 500 list
- Scouting opponents at the Rugby World Cup using social network analysis
- Extending a mathematical model of human eye movement to include Smooth Pursuit
+Developing predictive performance models for the CERN/ATLAS program +
+Benchmarking 1000+ node supercomputers for the Top 500 list +
+Scouting opponents at the Rugby World Cup using social network analysis +
+Extending a mathematical model of human eye movement to include Smooth Pursuit
 
 == Experience ==
 
@@ -75,7 +75,7 @@ _Master's Degree_, Technology in Education, awarded 2006 +
 *University of Wisconsin-Madison* +
 _Bachelor's Degree_, English Literature, awarded 1997
 
-== Volunteer Experience ==
+== Volunteer Service ==
 
 *Member, Good Judgment Team* +
 Good Judgment Project, _August 2014 - Present_ +
