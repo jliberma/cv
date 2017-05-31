@@ -1,0 +1,177 @@
+==== Jacob Liberman ====
+jliberman@utexas.edu +
+Austin, TX
++1 (512) 632-0098
+
+==== Summary ====
+I am a rugby 7s coach with collegiate, domestic club, and
+international experience. My coaching philosophy is centered on
+defense and contact work, and I have a passion for developing raw
+athletes into 7s players. My professional background is in computer
+programming and performance analysis. This informs my coaching. In
+my spare time I developed a unique statistical data set of more than
+600 international sevens matches that I mine for data-driven insights
+and tactics that have proved their effectiveness in competitions.
+
+==== Rugby Coaching Experience ====
+
+*Rugby 7s Director of Rugby, Assistant Coach* +
+Austin Huns, _March 2017 - Present_ +
+
+- Appointed rugby 7s director to oversee strategic direction including
+  competitions and player management for both the professional and amateur teams.
+- Responsibilities include coach development, video and statistical
+  performance analysis, player recruitment and development.
+- Work with professional and amateur coaches to develop and deliver
+  cohesive alignment between teams at all levels.
+- Assistant coach to professional team, defense & contact specialist
+
+*Rugby 7s Head Coach* +
+Austin Huns, _May 2016 - September 2016_ +
+
+- 2016 Red River Conference champion
+- Led Austin Huns to first USA Rugby 7s national championship tournament in the clubs 40 year
+history.
+- Planned practice, conducted video and statistical performance
+analysis, coached rugby 7s techniques, tactics, and strategy.
+
+*Rugby 7s Manager, Assistant Coach* +
+Austin Rugby Club, _May 2013 - August 2013_ +
+
+- Appointed rugby 7s manager and assistant coach to organize
+  competitive summer 7s
+- Red River Conference Champion, USAR 7s Nationals qualifier
+- Managed operational aspects of the season including fund raising,
+  scheduling, coach and player recruitment/retention
+- Assistant coach, defense & contact specialist
+
+<<<
+
+*Rugby 7s Head Coach* +
+University of Texas at Austin, _August 2010 – July 2015_ +
+
+- Founder and coach of University of Texas Rugby 7s team.
+- Ranked #20 2011, #13 2012, #12 2013 out of more than 500 college rugby programs.
+- In five seasons we produced 4 conference championships, 9 Academic
+All Americans, and UT's first rugby All American. (honorable mention)
+- During my coaching tenure, UT moved from DI-AA, to DIA, to Varsity
+  Cup. (15s)
+
+*Performance analyst* +
+Philippine Rugby Football Union, _June 2013 – August 2013_ +
+
+- National team performance analyst during the 2013 Rugby 7s World Cup
+in Moscow, Russia.
+- Video capture, coding, statistical analysis, and scouting.
+- Developed novel method to scout opponents at the Rugby Sevens World Cup
+using social network analysis and graph theory.
+
+
+==== Rugby Certifications ====
+
+- L200 USAR Coaching certification
+- L1 Referee certification
+- Rugby Sevens specialization
+
+==== Rugby Playing Experience ====
+
+* 20+ years of playing experience at collegiate, D2, and D1 levels
+** University of Wisconsin Rugby Club
+** Massey Rugby Club, Auckland, NZ
+** Wisconsin Rugby Club (1997 D2 Final four, 1998 D2 National
+  champions)
+** Austin Huns
+** Austin Rugby Club (2000 D1 Final four, 2001 D1 National Finalist)
+
+* Representative:
+** 2001 World Maccabiah Games, Israel, silver medal (15s)
+** 2002 Maccabiah Games, Australia, gold medal (7s)
+** West Mustangs ITT 7s (2001, 2002)
+** Atlantis 7s, Mexico (2010)
+
+<<<
+
+==== Professional Experience ====
+
+*Principal Product Manager, Cloud Computing* +
+Red Hat, _January 2012 – Present_ +
+
+- I work with Red Hat's largest private cloud customers in North and
+Latin America to define and drive features in Red Hat OpenStack
+Platform, our flagship cloud infrastructure product.
+
+*Principal Software Engineer, Cloud Computing* +
+Red Hat, _January 2012 – December 2015_ +
+
+- Developed, tested, and published cloud computing reference
+architectures based on Linux, OpenStack, and Hadoop.
+
+*Performance Engineer, Scientific and Cloud Computing* +
+Advanced Micro Devices, _November 2009 – January 2012_ +
+
+- Designed and conducted server performance studies for competitive
+analysis. Helped customers improve the performance of their codes
+on our systems. Managed lab clusters for remote customer evaluation
+and traveled to customer sites to conduct benchmarks for acceptance
+testing.
+
+*Development Engineer, Scientific Computing* +
+Dell, _August 2006 – November 2009_ +
+
+- Lead performance engineer. Conducted server performance studies using
+standard benchmarks and applications. Shared results via publications
+and presentations. Evaluated storage, networking, and software
+technologies for inclusion in our product.
+
+
+==== Education ====
+
+*Texas State University* +
+_Master's Program_, Computer Science +
+- Completed > 30 hours of upper division computer science course work
+  with a 3.8 GPA
+- Researcher in Human Computer Interaction lab helping develop
+  eye-gaze guided computer interfaces and a mechanical model of human
+  eye movement.
+
+*The University of Texas at Austin* +
+_Master's Degree_, Technology in Education +
+- 4.0 overall GPA including course work in educational psychology,
+  statistics, learning theory, and scientific computing.
+
+*University of Wisconsin-Madison* +
+_Bachelor's Degree_, English Literature +
+- Creative writing emphasis
+
+<<<
+
+==== Volunteer Service ====
+
+*Member, Good Judgment Team* +
+Good Judgment Project, _August 2014 - Present_ +
+
+I predict global events in a government sponsored forecasting
+tournament.
+
+*Board member (football)* +
+Trojans Pop Warner, _August 2015 – Present_ +
+
+Board member and volunteer football coach for Trojans Pop Warner in
+Austin, TX. In 2015 there were more than 250 boys and girls ages 5-12
+participating in Trojans Pop Warner. I teach rugby tackling techniques
+to all age groups to promote safe and effective tackling.
+
+*Membership chair -- Texas Rugby Alumni Network* +
+Texas Exes, _May 2015 - Present_ +
+
+The Texas Rugby Alumni Association is an official Texas Exes network.
+We organize alumni events, promote rugby within the university, and
+raise funds to offset operational costs to the University of Texas
+rugby team. In 2012 we established an endowed scholarship fund through
+UTIMCO.
+
+==== Selected Publications, Example Code ====
+- Code samples: https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
+- Publications & writing samples: https://github.com/jliberma/publications
+- Rugby analysis examples: http://rpubs.com/starting7s
+- Rugby & technology blog: https://starting7s.com (Updated infrequently)
