@@ -3,16 +3,22 @@ jacobliberman@gmail.com +
 Austin, TX
 
 ==== Summary ====
-I am a software engineer with a background in performance engineering,
-data analysis, and Linux systems administration.
+I am a product manager with a background in open source software
+development, data analysis, and high performance computing.
 
 ==== Experience ====
 
-*Principal Software Engineer, Cloud Computing* +
-Red Hat, _January 2012 – Present_ +
+*Field Product Manager, OpenStack* +
+Red Hat, _November 2016 - Present_ +
 
-- My current work focuses on developing, testing, and publishing cloud
-computing reference architectures based on Red Hat OpenStack Platform.
+- Feature prioritization and implementation, bug identification and
+  fix, executive strategy, implementation, and design.
+
+*Principal Software Engineer, Cloud Computing* +
+Red Hat, _January 2012 – November 2016_ +
+
+- Developed, tested, and published cloud computing
+reference architectures based on Red Hat OpenStack Platform.
 
 *Rugby 7s Head Coach* +
 University of Texas at Austin, _August 2010 – July 2015_ +
