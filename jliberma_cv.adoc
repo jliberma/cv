@@ -3,22 +3,28 @@ jacobliberman@gmail.com +
 Austin, TX
 
 ==== Summary ====
-I am a product manager with a background in open source software
-development, data analysis, and high performance computing.
+Prouct manager with a professional background in open source software
+development, data analysis, and high performance computing (HPC). Extensive experience
+working with the US Federal Government and in LATAM. Multiple industry
+and academic publications. Frequent presenter at technology
+conferences. Ability to context switch between C-level strategic
+planning and engineering-level technical discussions.
 
 ==== Experience ====
 
-*Field Product Manager, OpenStack* +
+*Principal Product Manager, OpenStack* +
 Red Hat, _November 2016 - Present_ +
 
-- Feature prioritization and implementation, bug identification and
-  fix, executive strategy, implementation, and design.
+- Red Hat is an enterprise software company with an open source
+  development model. I work with Red Hat's strategic customers on feature
+  development, bug fix, executive strategy, and private cloud implementation and design.
 
 *Principal Software Engineer, Cloud Computing* +
 Red Hat, _January 2012 – November 2016_ +
 
 - Developed, tested, and published cloud computing
-reference architectures based on Red Hat OpenStack Platform.
+reference architectures based on Red Hat OpenStack Platform,
+Enterprise Linux, and Hadoop.
 
 *Rugby 7s Head Coach* +
 University of Texas at Austin, _August 2010 – July 2015_ +
@@ -38,19 +44,19 @@ Advanced Micro Devices, _November 2009 – January 2012_ +
 
 - Designed and conducted server performance studies for competitive
 analysis. Helped customers improve the performance of their codes
-on our systems. Managed lab clusters for remote customer evaluation
-and traveled to customer sites to conduct benchmarks for acceptance
+on our systems. Managed lab clusters for remote customer evaluation.
+Traveled to customer sites to conduct benchmarks for acceptance
 testing.
 
-*Development Engineer, Scientific Computing* +
+<<<
+
+*Development Engineer, High Performance Computing* +
 Dell, _August 2006 – November 2009_ +
 
 - Lead performance engineer. Conducted server performance studies using
 standard benchmarks and applications. Shared results via publications
 and presentations. Evaluated storage, networking, and software
 technologies for inclusion in our product.
-
-<<<
 
 *Curriculum Designer/Subject Matter Expert* +
 Dell, _February 2005 – August 2006_ +
@@ -62,24 +68,17 @@ consulting team. High Performance Computing (HPC) subject matter expert.
 Dell, _April 1999 – February 2005_ +
 
 - Remote field services and support engineer. I helped customers deploy
-and troubleshoot EMC storage arrays and connect servers running Linux
-or UNIX to them.
+EMC storage arrays and attach UNIX and Linux servers to them.
 
 ==== Education ====
 
-*Coursera* +
-_Certificate_, Johns Hopkins Data Science Specialization (in progress) +
-- Completed 6 of 10 required courses
-
 *Texas State University* +
 _Master's Program_, Computer Science +
-- Completed > 30 hours of upper division computer science course work
-  with a 3.8 GPA
+- >30 hours of upper division (grad and undergrad) CS course work 3.8 GPA
 
 *The University of Texas at Austin* +
 _Master's Degree_, Technology in Education +
-- 4.0 overall GPA including course work in educational psychology,
-  statistics, learning theory, and scientific computing.
+- 4.0 GPA with course work in learning theory, statistics, and scientific computing.
 
 *University of Wisconsin-Madison* +
 _Bachelor's Degree_, English Literature +
@@ -87,29 +86,19 @@ _Bachelor's Degree_, English Literature +
 
 ==== Volunteer Service ====
 
-*Member, Good Judgment Team* +
-Good Judgment Project, _August 2014 - Present_ +
+*Board member* +
+Trojans Pop Warner, _August 2015 – 2017_ +
 
-I predict global events in a government sponsored forecasting
-tournament.
+Web services board member and volunteer American football coach. We
+promote safe and effective tackling by teaching rugby tackle
+techniques to all age groups. (5-12)
 
-*Football coach / tackle specialist* +
-Trojans Pop Warner, _August 2015 – Present_ +
-
-I coach American football and teach rugby tackling techniques to all
-age groups (5-12) to promote safe and effective tackling.
-
-*Membership chair -- Texas Rugby Alumni Network* +
+*Treasurer -- Texas Rugby Alumni Network* +
 Texas Exes, _May 2015 - Present_ +
 
 Board member of the Texas Rugby Alumni Association, an official
 chapter of the Texas Exes. We organize alumni events and manage an
 endowed scholarship fund.
-
-==== Skills ====
-Linux, OpenStack, R, Python, Bash scripting, Hadoop, inferential and
-exploratory statistics, technical writing, server performance analysis
-and benchmarking, human performance analysis, teaching, and coaching.
 
 ==== Selected Publications, Example Code ====
 https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
