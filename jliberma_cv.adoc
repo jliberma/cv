@@ -3,31 +3,27 @@ jacobliberman@gmail.com +
 Austin, TX
 
 ==== Summary ====
-Software prouct manager with a professional background in open source software
-, cloud computing, data analysis, and high performance computing (HPC). Extensive experience
+Product manager with a background in open source software, cloud computing, 
+and high performance computing (HPC). Extensive experience
 working with the US Federal Government and in LATAM. Multiple industry
 and academic publications. Frequent presenter at technology
 conferences. Ability to context switch between C-level strategic
-planning and engineering-level technical discussions.
+planning and engineering-level technical discussion.
 
 ==== Experience ====
 
-*Senior Principal Product Manager, Emerging Technology*
-Red Hat, _May2018 - Present_ +
+*Senior Principal Product Manager, Emerging Technology* +
+Red Hat, _May 2018 - Present_ +
 
-- Field product manager with cross organizational, cross product impact
-- OpenShift and OpenStack integration lead architecht.
-- Emerging technology: HPC and cloud convergence, accelerators.
-- Feature planning and implementation, bug identification and
-  fix. 
-- Field enablement through conference presentations and publications.
+- Field product manager with cross organizational, cross product impact.
+OpenShift and OpenStack integration. Technology evangelism through conference presentations and publications.
 
 *Principal Product Manager, Cloud, Virtualization, Containers* +
 Red Hat, _November 2016 - May 2018_ +
 
-- Represented strategic customers to cloud business unit
-- Cloud computing infrastructure design and implementation
-- Field enablement through hackfest planning and execution.
+- Represented strategic customers to cloud business unit.
+Cloud computing infrastructure design and implementation. 
+Field enablement through hackfest planning and execution.
 
 *Principal Software Engineer, Cloud Computing* +
 Red Hat, _January 2012 – November 2016_ +
@@ -98,21 +94,19 @@ _Bachelor's Degree_, English Literature +
 *Board member* +
 Trojans Pop Warner, _August 2015 – 2017_ +
 
-Web services board member and volunteer American football coach. We
-promote safe and effective tackling by teaching rugby tackle
-techniques to all age groups. (5-12)
+Web services and American football tackle saftey coach. 
 
 *Board Member -- Texas Rugby Alumni Network* +
 Texas Exes, _May 2015 - Present_ +
 
-Board member of the Texas Rugby Alumni Association, an official
-chapter of the Texas Exes. We organize alumni events and manage an
+Organize alumni events, recruit members, and manage an
 endowed scholarship fund.
 
 ==== Awards ====
-Red Hat Portfolio Marketing Customer Impact Award, 2018
-Red Hat Summit Best presenter award, 2017
-Red Hat Summit Best presenter award, 2016
+
+- Red Hat Portfolio Marketing Customer Impact Award, 2018
+- Red Hat Summit Best presenter award, 2017
+- Red Hat Summit Best presenter award, 2016
 
 ==== Selected Publications, Example Code ====
 https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
