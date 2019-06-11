@@ -3,23 +3,38 @@ jacobliberman@gmail.com +
 Austin, TX
 
 ==== Summary ====
-I am a product manager with a background in open source software
-development, cloud computing, data analysis, and scientific computing.
+Software prouct manager with a professional background in open source software
+, cloud computing, data analysis, and high performance computing (HPC). Extensive experience
+working with the US Federal Government and in LATAM. Multiple industry
+and academic publications. Frequent presenter at technology
+conferences. Ability to context switch between C-level strategic
+planning and engineering-level technical discussions.
 
 ==== Experience ====
 
-*Principal Product Manager, OpenStack* +
-Red Hat, _November 2016 - Present_ +
+*Senior Principal Product Manager, Emerging Technology*
+Red Hat, _May2018 - Present_ +
 
+- Field product manager with cross organizational, cross product impact
+- OpenShift and OpenStack integration lead architecht.
+- Emerging technology: HPC and cloud convergence, accelerators.
 - Feature planning and implementation, bug identification and
-  fix, executive strategy, cloud computing infrastructure implementation
-  and design.
+  fix. 
+- Field enablement through conference presentations and publications.
+
+*Principal Product Manager, Cloud, Virtualization, Containers* +
+Red Hat, _November 2016 - May 2018_ +
+
+- Represented strategic customers to cloud business unit
+- Cloud computing infrastructure design and implementation
+- Field enablement through hackfest planning and execution.
 
 *Principal Software Engineer, Cloud Computing* +
 Red Hat, _January 2012 – November 2016_ +
 
 - Developed, tested, and published cloud computing
-reference architectures based on Red Hat OpenStack Platform.
+reference architectures based on Red Hat OpenStack Platform,
+Enterprise Linux, and Hadoop.
 
 *Rugby 7s Head Coach* +
 University of Texas at Austin, _August 2010 – July 2015_ +
@@ -39,19 +54,17 @@ Advanced Micro Devices, _November 2009 – January 2012_ +
 
 - Designed and conducted server performance studies for competitive
 analysis. Helped customers improve the performance of their codes
-on our systems. Managed lab clusters for remote customer evaluation
-and traveled to customer sites to conduct benchmarks for acceptance
+on our systems. Managed lab clusters for remote customer evaluation.
+Traveled to customer sites to conduct benchmarks for acceptance
 testing.
 
-*Development Engineer, Scientific Computing* +
+*Development Engineer, High Performance Computing* +
 Dell, _August 2006 – November 2009_ +
 
 - Lead performance engineer. Conducted server performance studies using
 standard benchmarks and applications. Shared results via publications
 and presentations. Evaluated storage, networking, and software
 technologies for inclusion in our product.
-
-<<<
 
 *Curriculum Designer/Subject Matter Expert* +
 Dell, _February 2005 – August 2006_ +
@@ -63,24 +76,18 @@ consulting team. High Performance Computing (HPC) subject matter expert.
 Dell, _April 1999 – February 2005_ +
 
 - Remote field services and support engineer. I helped customers deploy
-and troubleshoot EMC storage arrays and connect servers running Linux
-or UNIX to them.
+EMC storage arrays and attach UNIX and Linux servers to them.
 
 ==== Education ====
 
-*Coursera* +
-_Certificate_, Johns Hopkins Data Science Specialization (in progress) +
-- Completed 8 of 10 required courses
-
 *Texas State University* +
 _Master's Program_, Computer Science +
-- Completed > 20 hours of upper division computer science course work. +
-Researched mechanical model of human eye movement and compiler optimization.
+- In progress, 30 hours upper division coursework  +
+- Researching CUDA acceleration for computational model of human eye movement, 
 
 *The University of Texas at Austin* +
 _Master's Degree_, Technology in Education +
-- 4.0 overall GPA including course work in educational psychology,
-  statistics, learning theory, and scientific computing.
+- 4.0 GPA with course work in learning theory, statistics, and scientific computing.
 
 *University of Wisconsin-Madison* +
 _Bachelor's Degree_, English Literature +
@@ -88,31 +95,24 @@ _Bachelor's Degree_, English Literature +
 
 ==== Volunteer Service ====
 
-*Member, Good Judgment Team* +
-Good Judgment Project, _August 2014 - Present_ +
+*Board member* +
+Trojans Pop Warner, _August 2015 – 2017_ +
 
-I predict global events in a government sponsored forecasting
-tournament.
+Web services board member and volunteer American football coach. We
+promote safe and effective tackling by teaching rugby tackle
+techniques to all age groups. (5-12)
 
-*Football coach / tackle specialist* +
-Trojans Pop Warner, _August 2015 – Present_ +
-
-I coach American football and teach rugby tackling techniques to all
-age groups (5-12) to promote safe and effective tackling.
-
-*Membership chair -- Texas Rugby Alumni Network* +
+*Board Member -- Texas Rugby Alumni Network* +
 Texas Exes, _May 2015 - Present_ +
 
 Board member of the Texas Rugby Alumni Association, an official
 chapter of the Texas Exes. We organize alumni events and manage an
 endowed scholarship fund.
 
-==== Skills ====
-Linux, OpenStack, R, Python, Bash scripting, Hadoop, inferential and
-exploratory statistics, technical writing, server performance analysis
-and benchmarking, human performance analysis, teaching, and coaching.
-
-==== Selected Publications, Awards, Example Code ====
-Red Hat Summit Best presenter award, 2016
+==== Awards ====
+Red Hat Portfolio Marketing Customer Impact Award, 2018
 Red Hat Summit Best presenter award, 2017
+Red Hat Summit Best presenter award, 2016
+
+==== Selected Publications, Example Code ====
 https://github.com/jliberma?tab=repositories[https://github.com/jliberma]
