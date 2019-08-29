@@ -1,0 +1,99 @@
+==== Jacob Liberman ====
+jacobliberman@gmail.com +
++1 (512) 632-0098 +
+Austin, TX
+
+==== Summary ====
+Product manager with the ability to context switch between C-level strategic planning and engineering level technical discussion.
+Background in open source software, cloud computing, and high performance computing (HPC).
+Extensive experience working with the US government and in LATAM.
+Multiple industry and academic publications.
+Frequent presenter at technology conferences.
+
+==== Related Experience ====
+
+*Senior Principal Product Manager, Emerging Technology* +
+Red Hat, _May 2018 - Present_ +
+
+- Field product manager with cross organizational, cross product impact.
+Various responsibilities centered around ensuring OpenShift on OpenStack is successful in the market.
+Developed OpenShift on OpenStack reference architecture. Worked with internal QE to add ref arch to CI.
+Developed and delivered hands-on OpenShift 4 training to Red Hat SAs.
+Assisted OEM partner with kubeflow on OpenShift + GPU whitepaper.
+Led OpenShift on OpenStack hackfest, first cross-product engineering and field enablement exercise at Red Hat.
+
+*Principal Product Manager, Cloud, Virtualization, Containers* +
+Red Hat, _November 2016 - May 2018_ +
+
+-  Member of field product management team for OpenStack, $125-150m/yr product.
+Conducted customer interviews and discovery sessions to gather product feedback and prioritize roadmap feature requests.
+Assisted strategic customers with private cloud planning and implementation for NFV, HPC, and enterprise use cases.
+Planned and executed several OpenStack hackfests for field enablement and product improvement.
+Co-presented OpenStack Summit session with Oak Ridge National Lab.
+
+*Principal Software Engineer, Cloud Computing* +
+Red Hat, _January 2012 – November 2016_ +
+
+- Developed, tested, and published cloud computing
+reference architectures based on Red Hat OpenStack Platform,
+Enterprise Linux, and Cloudera and HortonWorks Hadoop.
+Contributed code and patches to upstream OpenStack Rally project. 
+
+*Performance Engineer, Scientific and Cloud Computing* +
+Advanced Micro Devices, _November 2009 – January 2012_ +
+
+- Designed and conducted server performance studies for competitive
+analysis. Helped customers improve the performance of their codes
+on our systems. Managed lab clusters for remote customer evaluation.
+Traveled to customer sites to conduct benchmarks for acceptance
+testing. Ran standard HPC benchmarks such as SPEC MPI and SPEC OMP.
+
+<<<
+
+*Development Engineer, High Performance Computing* +
+Dell, _August 2006 – November 2009_ +
+
+- Lead performance engineer. Conducted server performance studies using
+standard benchmarks and applications. Shared results via publications
+and presentations. Evaluated storage, networking, and software
+technologies for inclusion in our product. Ran HPL for top 500 submissions.
+Developed predictive server performance model for CERN Atlas experiment.
+
+==== Education ====
+
+*Texas State University* +
+_Master's Program_, Computer Science (in progress) +
+- Researching computational model of human eye movement.
+Optimizing parallel multi-dimensional search algorithm for CUDA.
+
+*The University of Texas at Austin* +
+_Master's Degree_, Technology in Education +
+- 4.0 GPA with course work in learning theory, statistics, and scientific computing.
+
+*University of Wisconsin-Madison* +
+_Bachelor's Degree_, English - Creative writing +
+
+==== Service ====
+
+*Board Member -- Texas Rugby Alumni Network* +
+Texas Exes, _May 2015 - Present_ +
+
+*Board member* +
+Trojans Pop Warner Football, _August 2015 – 2017_ +
+
+*Rugby 7s Head Coach* +
+University of Texas at Austin, _August 2010 – July 2015_ +
+- Ranked #12 in 2013 out of more than 500 college rugby programs.
+
+*Performance analyst* +
+Philippine Rugby Football Union, _June 2013 – August 2013_ +
+- Scouting and video analysis during the 2013 Rugby 7s World Cup in Moscow, Russia. 
+
+==== Awards ====
+
+- Red Hat Portfolio Marketing 2018 Customer Impact Award
+- Red Hat Summit 2017 Best Presenter award
+- Red Hat Summit 2016 Best Presenter award
+
+==== Selected Publications ====
+https://github.com/jliberma/publications[https://github.com/jliberma/publications]
