@@ -1,0 +1,65 @@
+==== Jacob Liberman ====
+jacobliberman@gmail.com +
++1 (512) 632-0098 +
+Austin, TX
+
+==== Summary ====
+Creative and relentless technology professional. Currently building cloud-native edge AI platforms.
+I enjoy writing, speaking, and learning at an uncomfortable pace.
+
+==== Related Experience ====
+
+NVIDIA, _Nov 2019 - Present_ +
+
+*Principal Product Manager, Edge AI* +
+- IC reporting directly to GM of edge and enterprise. +
+- Building a new class of distributed AI systems: the GPU-powered-DPU. These devices securely analyze continuous data streams at the edge. +
+- I also build cloud native platforms for telco (ORAN, MEC, AI on 5G) and manufacturing (Industry 4.0, functional safety) verticals.
+
+RED HAT, _Jan 2012 – Nov 2019_ + 
+
+*Senior Principal Product Manager, Emerging Technology* +
+-  Product manager for cloud native and virtualized infrastructure management technologies. +
+-  Cross organizational, cross product impact. +
+-  Extensive experience in LATAM and with US public sector.
+
+*Principal Software Engineer, Cloud Computing* +
+- Developed, tested, and published cloud computing reference architectures. +
+
+AMD, _Nov 2009 – Jan 2012_ +
+
+*Performance Engineer, Scientific and Cloud Computing* +
+- Designed and conducted server performance studies for competitive analysis. 
+
+DELL, _Aug 1999 – Nov 2009_ +
+
+*Development Engineer, High Performance Computing* +
+- Conducted server performance studies using
+standard benchmarks and applications. +
+- Shared results via publications
+and presentations. +
+- Held various other positions in consulting, support, training, and services at Dell. +
+
+==== Education ====
+
+*Texas State University* +
+_Master's Program_, Computer Science (incomplete)) +
+- Researching computational models of human eye movement.
+
+*The University of Texas at Austin* +
+_Master's Degree_, Technology in Education +
+- 4.0 GPA with course work in learning theory, statistics, and scientific computing.
+
+*University of Wisconsin-Madison* +
+_Bachelor's Degree_, English, Russian Language and Literature +
+
+==== Service ====
+
+* Volunteer driver +
+Drive-a-Senior, _August 2018 - present_ +
+
+* Religous studies mentor +
+Temple Beth Shalom, _October 2019 – present_ +
+
+* Board Member (scholarships) -- University of Texas Rugby Alumni Network +
+Texas Exes, _May 2015 - Present_ +
